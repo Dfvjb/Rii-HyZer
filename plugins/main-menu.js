@@ -310,11 +310,11 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
               {
                 "rows": [{
                   "title": ` 👨 OWNER BOT`,
-                  "description": "Nomor Pemilik Bot Chat P/Meminta Save Tidak Akan Di Respon",
+                  "description": "Nomor Pemilik Bot / Jangan Spam Tele/Vc",
                   "rowId": `.owner`
                 },{
-                  "title": "❗ INFO BOT",
-                  "description": "Menampilkan Menu Info",
+                  "title": "❗ INFO BOT
+                  "description": "Menampilkan Menu Info Bot",
                   "rowId": `${_p}? info`
                 }],
                 "title": "INFORMASI BOT"
@@ -325,7 +325,7 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
                   "rowId": '.? all'
                   }, {
                   "title": "│ 📝│ ABSEN & VOTING",
-                  "description": "Menampilkan Menu Absen",
+                  "description": "Menampilkan Menu Absen & Voting",
                   "rowId": `${_p}? absen`
                 }, {
                   "title": "│⛩️│ANIME",
@@ -333,7 +333,7 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
                   "rowId": `${_p}? anime`
                 }, {
                   "title": "│🎇│STICKER & CONVERTER",
-                  "description": "Menampilkan Menu Sticker",
+                  "description": "Menampilkan Menu Sticker & Converter",
                   "rowId": `${_p}? sticker`
                 }, {
                   "title": "│📺│DOWNLOADER",
@@ -341,7 +341,7 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
                   "rowId": `${_p}? downloader`
                 }, {
                   "title": "│📈│EXP & LIMIT",
-                  "description": "Menampilkan Menu Exp",
+                  "description": "Menampilkan Menu Exp & Limit",
                   "rowId": `${_p}? xp`
                 }, {
                   "title": "│🐣│FUN",
