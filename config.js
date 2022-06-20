@@ -19,8 +19,8 @@ global.web = 'https://github.com/RiiOFC' //ubah jadi website lu, bisa link ig, l
 global.price1 = 'Free Ya'
 
 //=======『 Tampilan Dan Lainnya 』============//
-global.fotonya1 = 'https://telegra.ph/file/e4a2f4339da8a32ad20a1.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/8c471d45b6cedad43cf84.jpg' //ini juga ganti 
+global.fotonya1 = 'https://telegra.ph/file/7a16be7451d7049a92daa.jpg' //ganti jadi foto bot mu
+global.fotonya2 = 'https://telegra.ph/file/f5c02e6678643f6b61164.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = 'RiiBot.'
@@ -29,7 +29,7 @@ global.wm2 = '                     「 RiiBot あ⁩ 」'
 global.wm3 = '⫹⫺ RiiBot.'
 global.htki = '––––––『' 
 global.htka = '』––––––'
-global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
+global.media = 'https://telegra.ph/file/7a16be7451d7049a92daa.jpg'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.wait = '_*tunggu sedang di proses...*_'
 global.eror = '_*Server Error*_'
